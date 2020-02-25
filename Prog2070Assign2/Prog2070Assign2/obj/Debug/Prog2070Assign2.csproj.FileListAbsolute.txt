@@ -1,0 +1,7 @@
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\bin\Debug\Prog2070Assign2.exe.config
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\bin\Debug\Prog2070Assign2.exe
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\bin\Debug\Prog2070Assign2.pdb
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\obj\Debug\Prog2070Assign2.csprojAssemblyReference.cache
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\obj\Debug\Prog2070Assign2.csproj.CoreCompileInputs.cache
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\obj\Debug\Prog2070Assign2.exe
+D:\Semester 2 -Winter2020\Software Quality Assurance\Assigment 2\Prog2070Assign2\Prog2070Assign2\obj\Debug\Prog2070Assign2.pdb
