@@ -18,7 +18,7 @@ namespace Prog2070Assign2
             void Menu()
             {
                 Console.WriteLine("Welcome to my Triangle application please select a number.");
-                Console.WriteLine("1. Get Circle Radius");
+                Console.WriteLine("1. Make a Triangle");
                 Console.WriteLine("2. Exit");
                 ///calls methods
                 switch (Console.ReadLine())
@@ -40,18 +40,22 @@ namespace Prog2070Assign2
 
             void GetTriangle()
             {
-                Console.WriteLine("Enter a new Radius");
+                Console.WriteLine("Enter a new All three sides ");
+                Console.WriteLine("Side 1 :");
 
                 if (int.TryParse(Console.ReadLine(), out userSideOne))
                 {
 
+                    Console.WriteLine("Side 2 :");
 
                     if (int.TryParse(Console.ReadLine(), out userSideTwo))
                     {
+                        Console.WriteLine("Side 3 :");
 
                         if (int.TryParse(Console.ReadLine(), out userSideThree))
                         {
-                            TriangleSolver.Analyse(userSideOne,userSideTwo,userSideThree);
+                         string message =  TriangleSolver.Analyse(userSideOne,userSideTwo,userSideThree);
+                            Console.WriteLine(message);
 
                         }
                         else
